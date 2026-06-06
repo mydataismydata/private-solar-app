@@ -10,12 +10,12 @@ read a compatible inverter over WiFi, all without the official app.
 
 ## Download
 
-[![Download APK](https://img.shields.io/github/v/release/mydataismydata/solar-monitor-app?label=Download%20APK&logo=android&color=2ea043)](https://github.com/mydataismydata/solar-monitor-app/releases/latest/download/PrivateSolarMonitoring.apk)
+[![Download APK](https://img.shields.io/github/v/release/mydataismydata/private-solar-app?label=Download%20APK&logo=android&color=2ea043)](https://github.com/mydataismydata/private-solar-app/releases/latest/download/PrivateSolarMonitoring.apk)
 
-**[⬇️ Download the latest APK](https://github.com/mydataismydata/solar-monitor-app/releases/latest/download/PrivateSolarMonitoring.apk)** — open it on your Android phone to install.
+**[⬇️ Download the latest APK](https://github.com/mydataismydata/private-solar-app/releases/latest/download/PrivateSolarMonitoring.apk)** — open it on your Android phone to install.
 
 That link always downloads the newest release directly (one tap, no extra page). Prefer to
-browse versions and changelogs? See **[all releases](https://github.com/mydataismydata/solar-monitor-app/releases)**.
+browse versions and changelogs? See **[all releases](https://github.com/mydataismydata/private-solar-app/releases)**.
 
 > **Installing a sideloaded app:** the first time, Android asks you to allow installs from
 > your browser/file app (**Settings → Install unknown apps**). Approve it, then tap the file
