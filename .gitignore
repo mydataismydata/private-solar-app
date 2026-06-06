@@ -1,0 +1,33 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+build/
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.apk
+*.aab
+*.keystore
+!debug.keystore
+*.jks
+
+# Release signing secrets — never commit
+keystore.properties
+
+# Gradle JDK pointer (machine-specific java.home)
+/gradle/config.properties
+
+# Claude Code local session data + private project memory
+.claude/
+/CLAUDE.md
+/CLAUDE.local.md
+
+# Kotlin
+.kotlin/
+
+# Python (tools/)
+__pycache__/
+*.pyc

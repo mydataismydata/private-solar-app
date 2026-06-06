@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App icon background (the dark tile behind the mark) -->
+    <color name="ic_launcher_background">#0E1116</color>
+
+    <!-- Brand accents, handy to have as resources -->
+    <color name="brand_accent_dark">#FF22D3EE</color>
+    <color name="brand_accent_light">#FF4F9CF9</color>
+    <color name="brand_bg_dark">#FF0E1116</color>
+</resources>
